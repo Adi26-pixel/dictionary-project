@@ -1,0 +1,14 @@
+import books from "./Books.png";
+import "./App.css";
+
+function App() {
+  return (
+    <div className="App">
+      <header className="App-header">
+        <img src={books} alt="books" className="App-logo img-fluid" />
+      </header>
+    </div>
+  );
+}
+
+export default App;
