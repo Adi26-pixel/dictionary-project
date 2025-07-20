@@ -16,9 +16,14 @@ function App() {
         <footer className="App-footer">
           <small>
             Coded by{" "}
-            <a href="https://github.com/Adi26-pixel">Adeline Monsengo</a> and
-            Opened source on{" "}
-            <a href="https://github.com/Adi26-pixel/dictionary-project.git">
+            <a href="https://github.com/Adi26-pixel" target="_blank">
+              Adeline Monsengo
+            </a>{" "}
+            and Opened source on{" "}
+            <a
+              href="https://github.com/Adi26-pixel/dictionary-project.git"
+              target="_blank"
+            >
               Github
             </a>
           </small>
